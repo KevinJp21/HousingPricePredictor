@@ -1,6 +1,6 @@
 # Predicción de Precios de Vivienda en California
 
-Este proyecto utiliza una red neuronal convolucional (CNN) para predecir el precio medio de las viviendas en California, disponible en [Kaggle](https://www.kaggle.com/code/shtrausslearning/bayesian-regression-house-price-prediction/input?select=housing.csv).
+Este proyecto utiliza una red neuronal convolucional 1D (CNN 1D) para predecir el precio medio de las viviendas en California, disponible en [Kaggle](https://www.kaggle.com/code/shtrausslearning/bayesian-regression-house-price-prediction/input?select=housing.csv).
 
 
 ## Dataset
