@@ -42,7 +42,7 @@ Ejemplo de transformación:
 El objetivo principal de este proyecto es entrenar un modelo de aprendizaje profundo que pueda predecir con precisión el valor medio de las viviendas en función de sus características geográficas y estructurales.
 
 ## Tecnologías Utilizadas
-- Python
+- Python 3.10.11
 - TensorFlow/Keras
 - Pandas y NumPy
 - Scikit-learn
